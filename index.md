@@ -1,10 +1,6 @@
----
-layout: default
----
+Hello World!
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+https://rileypeel55-cyber.github.io/Rilow-MyDocs.github.io/ 
 
 There should be whitespace between paragraphs.
 
