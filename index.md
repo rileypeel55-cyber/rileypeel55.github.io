@@ -1,9 +1,11 @@
 Hello World!
 
 This is a wedsite displaying my projects
-https://rileypeel55-cyber.github.io/Rilow-MyDocs.github.io/ 
+https://rileypeel55-cyber.github.io/Rilow-MyDocs.github.io   
 
-There should be whitespace between paragraphs.
+Hello im Riley, 
+
+Im currently breaking into cybersecuriy starting with my certfications along with my own experimention, im familer with linux 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
